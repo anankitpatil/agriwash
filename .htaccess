@@ -1,28 +1,11 @@
 DirectoryIndex index.php
 RewriteEngine on
 
-Options +FollowSymLinks
-
-RewriteRule ^css/ - [L,NC]
-RewriteRule ^test/ - [L,NC]
-RewriteRule ^img/ - [L,NC]
-RewriteRule ^js/ - [L,NC]
-RewriteRule ^scripts/ - [L,NC]
-RewriteRule ^uploads/ - [L,NC]
-
-RewriteCond %{HTTP:Accept-Language} ^en [NC]
-RewriteRule ^(.*)$ http://agriwash.com/en/$1 [L,R=301]
+RewriteRule ^(uploads|css|js|img|sphider|system|scripts)($|/) - [L]
 
 RewriteCond %{HTTP:Accept-Language} ^es [NC]
-RewriteRule ^(.*)$ http://agriwash.com/es/$1 [L,R=301]
+RewriteRule ^$ http://localhost/agriwash/es/ [L,R=301]
 
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-l
+RewriteRule ^$ http://localhost/agriwash/en/ [L,R=301]
 
-RewriteRule ^(en|es)/?$ index.php?lang=$1 [QSA,NC,L]
-
-RewriteCond $1 !^(index\.php|(.*)\.swf|img|css|scripts|uploads|js|robots\.txt|favicon\.ico)
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^(.*)$ ./index.php?$1 [L,QSA]
+AddType image/svg+xml svg

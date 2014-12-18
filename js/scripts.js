@@ -4,6 +4,8 @@ var side = 0;
 var len = 0;
 var h = 0;
 $(document).ready(function() {
+	//Cookie policy
+	$.cookieBar({bottom: true, fixed: true});
 	//Header
 	if(!WURFL.is_mobile){
 		$('nav').removeClass('on');
@@ -12,7 +14,7 @@ $(document).ready(function() {
 	}
 	//Language
 	$('.regions-container .regions').click(function(){
-		$(this).siblings('.regions-dropdown').toggle('fast');	
+		$(this).siblings('.regions-dropdown').toggle();	
 	});
 	//Read more section
 	var readHeight = $('.hidden').height();
@@ -85,7 +87,7 @@ $(document).ready(function() {
 	    });
 	});
 	//Scroll news
-	var newsInterval = setInterval(function(){ thisNews(); }, 3000);
+	//var newsInterval = setInterval(function(){ thisNews(); }, 3000);
 });
 function slide(){
 	var x = y - 1; if(x == -1) x = len-1;
