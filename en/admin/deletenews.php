@@ -2,8 +2,9 @@
 define("UPLOAD_DIR", "/home/renewdesign/public_html/agriwash/uploads/");
 if(isset($_POST['id']))
 {
-	$connection = mysql_connect('localhost','agriwash','E6D2b5Tp');
-	mysql_select_db('agriwash',$connection);
+	include("config/db.php");
+	$connection = mysql_connect(DB_HOST, DB_USER, DB_PASS);
+	mysql_select_db(DB_NAME, $connection);
 	error_reporting(E_ALL && ~E_NOTICE);
 	
 	$id = $_POST['id'];

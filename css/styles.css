@@ -6,6 +6,7 @@ textarea{font-family:Verdana, Geneva, sans-serif}
 .smooth{-webkit-transition: all 250ms ease-in-out;-moz-transition: all 250ms ease-in-out;-o-transition: all 250ms ease-in-out;transition: all 250ms ease-in-out}
 .wrapper{width:1026px;margin:0px auto}
 .wrap{width:840px;margin:0px auto}
+.wrap:nth-child(2){margin-top:48px}
 a{color:#333300;text-decoration:none;}
 h2{color:#333300;font-size:36px;line-height:48px;font-weight:300;margin:0px}
 h3{color:#333300;font-size:24px;font-weight:300;margin:0px}
@@ -26,6 +27,12 @@ nav.on figure{margin:9px 0 3px;width:120px}
 nav ul li{margin:0 24px}
 nav ul li a{text-decoration:none;text-transform:uppercase;font-size:14px;color:#FFFFFF;line-height:48px;display:block}
 nav ul li a:hover{color:#FBC839}
+nav ul li .dropdown{position:absolute;background:#333300;margin-left:-24px;border-bottom:3px solid #FBC839;opacity:0;visibility:hidden;margin-top:0px}
+nav ul li:hover .dropdown{opacity:1;visibility:visible}
+nav.on ul li .dropdown{margin-top:0px}
+nav ul li .dropdown li{display:block}
+nav ul li .dropdown li a{line-height:42px}
+nav.on ul li .dropdown li:first-child{padding-top:9px}
 nav.on ul li a{line-height:24px}
 nav .regions-container{text-align:right;position:absolute;right:0px;top:0px;padding:9px 0 7px;width:180px}
 nav.on .regions-container{padding:0px}
@@ -75,11 +82,13 @@ nav .regions-container .regions-dropdown li a:hover{color:#FBC839}
 .spec .down figure{display:inline-block;width:60px;height:60px;margin-right:12px}
 .spec .down figure:nth-child(2){padding-right:27px;padding-bottom:3px;margin-right:18px;background:url(../img/mini-line.png) no-repeat right center}
 .spec .down figure img{width:100%;height:auto}
-.spec .down .button{background:#FBC839;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;border:2px solid #FBC839;color:#FFFFFF;font-size:15px;padding:6px 48px;vertical-align:top;display:inline-block;margin-top:12px}
-.spec .down .button:hover{background:none;color:#333300}
+.spec .down .button,.leader .button,.newspage .button,.singlenews .button{background:#FBC839;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;border:2px solid #FBC839;color:#FFFFFF;font-size:15px;padding:6px 48px;vertical-align:top;display:inline-block;margin-top:12px}
+.spec .down .button:hover,.leader .button:hover,.newspage .button:hover,.singlenews .button:hover{background:none;color:#333300}
+.leader{text-align:center}
+.leader .button:first-child{margin-right:96px}
 .greedient{background:rgb(51,51,0);background:-moz-linear-gradient(left, rgba(65,65,4,1) 0%, rgba(51,51,0,1) 50%, rgba(65,65,4,1) 100%);background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(65,65,4,1)), color-stop(50%,rgba(51,51,0,1)), color-stop(100%,rgba(65,65,4,1)));background:-webkit-linear-gradient(left,  rgba(65,65,4,1) 0%,rgba(51,51,0,1) 50%,rgba(65,65,4,1) 100%);background: -o-linear-gradient(left,  rgba(65,65,4,1) 0%,rgba(51,51,0,1) 50%,rgba(65,65,4,1) 100%);background:-ms-linear-gradient(left,  rgba(65,65,4,1) 0%,rgba(51,51,0,1) 50%,rgba(65,65,4,1) 100%);background:linear-gradient(to right,  rgba(65,65,4,1) 0%,rgba(51,51,0,1) 50%,rgba(65,65,4,1) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#333300', endColorstr='#333300',GradientType=1 )}
 .greedient .wrap{padding:48px 0;text-align:center}
-.greedient h3{margin-bottom:48px}
+.greedient h3{margin-bottom:48px;color:#FBC839}
 .greedient ul{width:480px;margin:0 auto;text-align:left}
 .greedient ul li{color:#FFFFFF;font-size:15px;margin-bottom:24px}
 .contact{text-align:center}
@@ -104,15 +113,27 @@ nav .regions-container .regions-dropdown li a:hover{color:#FBC839}
 .newsection .over{width:840px;height:150px;overflow:hidden;margin:48px auto;text-align:left}
 .newsection .item{margin-bottom:150px}
 .item h4{font-size:12px;color:#9A9A9A}
-.newsection{display:none}
+.newsection{/*display:none*/}
 .newsection .item figure{height:150px;width:150px;display:inline-block;vertical-align:top;overflow:hidden}
 .newsection .item figure img{height:100%;width:auto}
 .newsection .item .cont{display:inline-block;width:660px;padding-left:30px;vertical-align:top}
 .newsection .item .cont h2{font-size:21px}
 .newsection .item .cont p{margin-top:0px}
-.newsection .item a{color:#2EA664;font-size:14px;float:right;margin-top:-27px;margin-right:6px;display:block;line-height:42px}
+.newsection .item a{color:#333300;font-size:14px;float:right;margin-top:-27px;margin-right:6px;display:block;line-height:42px}
 @-moz-document url-prefix(){.newsection .item a{margin-top:-29px}}
 .item a:hover{color:#FBC839}
+.newspage{margin-top:96px}
+.newspage h2,.singlenews h2{text-align:center}
+.newspage h4,.singlenews h4{text-align:center;margin:24px 0}
+.newspage .half figure{padding-right:12px}
+.newspage .half .content{padding-left:12px}
+.newspage .half .content p{margin:0px}
+.newspage .half a{font-size:15px;text-align:right;display:block;margin:24px 0}
+.newspage .half a i{margin-left:12px;font-size:18px}
+.singlenews{margin-top:96px}
+.singlenews figure{margin-bottom:24px}
+.singlenews .button:first-child{margin-right:24px}
+.singlenews .content{margin-bottom:48px}
 footer{background:#333300;border-top:3px solid #FBC839;display:block;padding:48px 0}
 footer .third{width:33.333333%;display:inline-block;vertical-align:top}
 footer p{color:#FFFFFF;margin:3px 0}
@@ -139,6 +160,7 @@ footer .third:nth-of-type(3) p{margin-left:33.3333333%}
 .lamma15{right:24px;margin-right:0px}
 }
 @media only screen and (max-width:768px){
+nav ul li{margin:0 18px}
 .slide{margin-top:0px}
 .slide .image{top:0px}
 #product h2{text-align:left}
@@ -173,6 +195,8 @@ nav ul li:nth-child(2){display:none}
 nav .regions-container{top:15px;right:12px}
 nav .regions-container .regions-dropdown li:nth-child(2){display:block;float:right}
 nav ul li a,nav.on ul li a{line-height:48px}
+nav .dropdown{width:120px;margin-left:-60px !important}
+.leader .button:first-child{margin-right:0px}
 .newsection .item .cont p{line-height:18px}
 footer .third{width:100%}
 footer .third:nth-of-type(2) figure{margin-left:24px;margin-top:24px;margin-bottom:12px}

@@ -1,6 +1,7 @@
 <?php
-$connection = mysql_connect('localhost', 'agriwash', 'E6D2b5Tp');
-mysql_select_db('agriwash', $connection);
+include("config/db.php");
+$connection = mysql_connect(DB_HOST, DB_USER, DB_PASS);
+mysql_select_db(DB_NAME, $connection);
 	
 $data = mysql_query("SELECT * FROM news ORDER BY modified DESC LIMIT 1") or die(mysql_error());
 while($news = mysql_fetch_array($data)) { ?>
