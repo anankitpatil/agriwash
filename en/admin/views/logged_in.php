@@ -14,7 +14,7 @@
     <input type="submit" value="Save" class="save" />
   </form>
   <div class="subtract">
-    <img src="../img/loading.gif" />
+    <img src="../../img/loading.gif" />
   </div>
 </div>
 <style>.container .wrapper{text-align:left}</style>
@@ -29,7 +29,7 @@ while($news = mysql_fetch_array($data)) { ?>
   <div class="content">
     <p><?php echo substr($news['content'], 0, 165) . '...'; ?></p>
   </div>
-  <a href="http://agriwash.com/en/show/<?php echo str_replace(' ', '-', $news['title']); ?>" class="linky" target="_blank"><i class="fa fa-external-link-square"></i></a><a class="delete" href="#" id="<?php echo $news['id']; ?>"><i class="fa fa-close"></i></a>
+  <a href="../show/<?php echo str_replace(' ', '-', $news['title']); ?>" class="linky" target="_blank"><i class="fa fa-external-link-square"></i></a><a class="delete" href="#" id="<?php echo $news['id']; ?>"><i class="fa fa-close"></i></a>
   <div class="line"></div>
 </div>
 <?php } ?>

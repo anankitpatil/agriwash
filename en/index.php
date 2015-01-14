@@ -49,8 +49,8 @@
             <li class="smooth"><a href="./enforcer/" class="smooth" title="Rhino Agriwash Enforcer - Automatic drive-through Vehicle disinfection and Wheel washing system product information">Enforcer</a></li>
           </ul>
         </li>
-        <li class="smooth"><a href="#requirements" class="smooth" title="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system technical specifications">Customer Requirements</a></li>
-        <li class="anomaly smooth"><a href="#requirements" class="smooth" title="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system technical specifications">Customer<br />Requirements</a></li>
+        <li class="smooth"><a href="#benefits" class="smooth" title="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system technical benefits">Technical Benefits</a></li>
+        <li class="anomaly smooth"><a href="#benefits" class="smooth" title="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system technical specifications">Technical<br />Benefits</a></li>
         <li class="smooth"><a href="#contact" class="smooth" title="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system contact email, address and phone number">Contact</a></li>
         <!--<li><a href="#news" class="smooth">News</a></li>-->
       </ul>
@@ -78,8 +78,23 @@
       <p>See us on Stand 642 A, Hall 6!</p>
  	</div>
   </div>
-  <div class="container" id="product" style="padding-bottom:54px">
-    <div class="wrap">
+  <div class="container home" id="product">
+    <div class="wrapper">
+      <div class="half">
+        <figure><img src="../img/defender_render.jpg" alt="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system technical specification drawing" /></figure>
+        <h2>The Rhino Agriwash Defender</h2>
+        <h4>High performance and compact vehicle disinfecting system</h4>
+        <p>The Rhino Agriwash Defender is an automatically activated drive-through vehicle disinfecting system. It has been specifically designed to reduce the spread of disease by vehicular movements in locations where biosecurity is a concern.</p>
+        <a href="./defender/" class="more smooth" title="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system"><span>Read More</span><i class="fa fa-angle-right"></i></a>
+      </div><div class="half">
+        <figure><img src="../img/enforcer_render.jpg" alt="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system technical specification drawing" /></figure>
+        <h2>The Rhino Agriwash Enforcer</h2>
+        <h4>High performance, heavy duty vehicle disinfecting system</h4>
+        <p>The Rhino Agriwash Enforcer is an automatically activated drive-through vehicle disinfecting system suitable for all road going vehicles. It has been specifically designed to reduce the spread of disease by vehicular movements in industrial and agricultural locations where biosecurity is a concern.</p>
+        <a href="./enforcer/" class="more smooth" title="Rhino Agriwash Enforcer - Automatic drive-through Vehicle disinfection and Wheel washing system"><span>Read More</span><i class="fa fa-angle-right"></i></a>
+      </div>
+    </div>
+    <!--<div class="wrap">
       <h2>The Rhino Agriwash Defender</h2>
       <h4>High performance and compact vehicle disinfecting system</h4>
       <p style="margin-bottom:0px">The Rhino Agriwash Defender is an automatically activated drive-through vehicle disinfecting system. It has been specifically designed to reduce the spread of disease by vehicular movements in locations where biosecurity is a concern.</p>
@@ -90,18 +105,22 @@
       <h4>High performance, heavy duty vehicle disinfecting system</h4>
       <p style="margin-bottom:0px">The Rhino Agriwash Enforcer is an automatically activated drive-through vehicle disinfecting system suitable for all road going vehicles. It has been specifically designed to reduce the spread of disease by vehicular movements in industrial and agricultural locations where biosecurity is a concern.</p>
       <a href="./enforcer/" class="more smooth" title="Rhino Agriwash Enforcer - Automatic drive-through Vehicle disinfection and Wheel washing system"><span>Read More</span><i class="fa fa-angle-right"></i></a>
-    </div>
+    </div>-->
   </div>
-  <div class="greedient" id="requirements">
+  <div class="gradiator" id="benefits">
     <div class="wrap">
-      <h3>Customer Requirements</h3>
-      <ul>
-        <li>Clear lifting zone for offloading with Hiab.</li>
-        <li>Compacted level hardcore or concrete or tarmac base for the system and associated ramps and tanks.</li>
-        <li>A constant mains water supply for commissioning and operation.</li>
-        <li>Disinfectant readily available for testing.</li>
-        <li>Nominated site personnel to be available for training.</li>
-      </ul>
+      <h3>Technical Benefits</h3>
+      <div class="half">
+        <figure><img src="../img/defender_mid_1.jpg" alt="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system targeted spray for maximum effectiveness" /></figure>
+        <h5>Targeted spray for maximum effectiveness</h5>
+        <figure><img src="../img/defender_mid_3.jpg" alt="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system surface mounted" /></figure>
+        <h5>Surface mounted</h5>
+      </div><div class="half">
+        <figure><img src="../img/defender_mid_2.jpg" alt="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system high quality pump for all round coverage" /></figure>
+        <h5>High quality pump for all round coverage</h5>
+        <figure><img src="../img/defender_mid_4.jpg" alt="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system with adjustable dosing" /></figure>
+        <h5>Adjustible dosing</h5>
+      </div>
     </div>
   </div>
   <div class="container contact" id="contact">

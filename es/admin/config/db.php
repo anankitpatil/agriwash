@@ -13,5 +13,5 @@
  */
 define("DB_HOST", "localhost");
 define("DB_NAME", "agriwash");
-define("DB_USER", "agriwash");
-define("DB_PASS", "E6D2b5Tp");
+define("DB_USER", "root");
+define("DB_PASS", "");

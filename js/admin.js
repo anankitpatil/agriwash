@@ -49,6 +49,7 @@ $( document ).ready(function() {
 			type: 'POST',
 			async: false,
 			success: function(data){
+			  alert(data);
 			  $.get('lastnews.php', function(response){
 				$('.item .delete').unbind('click');
 				$('.item').unbind('click');
@@ -70,9 +71,9 @@ $( document ).ready(function() {
 
 (function($){
   $.fn.updateThis = function() {
-	$(this).find('.edit').click(function(e){
+	$(this).click(function(e){
 		e.preventDefault();
-		if(e.target.className == 'delete' || e.target.className == 'fa fa-close') return;
+		if(e.target.className == 'delete' || e.target.className == 'fa fa-close' || e.target.className == 'linky' || e.target.className == 'fa fa-external-link-square') return;
 		var $theForm = $('<div class="add">' + $('.add').html() + '</div>');
 		var theItem = this;
 		$('.add').animate({'opacity': 0}, 250, function(){
@@ -82,12 +83,12 @@ $( document ).ready(function() {
 			$('.item').unbind('click');
 			$('.item .delete').unbind('click');
 			
-			$.get('id.php?id='+$(theItem).attr('id'), function(response){
+			$.get('idnews.php?id='+$(theItem).attr('id'), function(response){
 				var news = jQuery.parseJSON(response);
 				id = news.id;
 				$theForm.find('.title').val(news.title);
 				$theForm.find('.content').val(news.content);
-				$theForm.find('.imagery').append('<img src="../uploads/' + news.image + '" />').attr('href', '../../uploads/' + news.image);
+				$theForm.find('.imagery').append('<img src="../../uploads/' + news.image + '" />').attr('href', '../../uploads/' + news.image);
 				$theForm.initialize();
 				$(theItem).addClass('hiddenitem').after($theForm);
 				$theForm.find('.cancel').click(function(){
@@ -108,13 +109,13 @@ $( document ).ready(function() {
 				$('.subtract').animate({'opacity': 1}, 250);
 		
 				$.ajax({
-					url: 'update.php',
+					url: 'updatenews.php',
 					data: formData,
 					type: 'POST',
 					async: false,
 					success: function(data){
 					  alert(data);
-					  $.get('last.php', function(response){
+					  $.get('lastnews.php', function(response){
 						$theForm.remove();
 						$('.hidden').removeClass('hidden').addClass('add').animate({'opacity': 1}, 250);
 					 	$('.add-form').trigger('reset');
@@ -143,7 +144,7 @@ $( document ).ready(function() {
 		if(confirm('Are you sure you want to delete this? This cannot be undone.')){
 			var thisItem = this;
 			$.ajax({
-				url: 'delete.php',
+				url: 'deletenews.php',
 				data: {'id': $(this).attr('id')},
 				type: 'POST',
 				success: function(data){

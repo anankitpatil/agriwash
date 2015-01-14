@@ -1,5 +1,6 @@
 <?php 
-define("UPLOAD_DIR", "/home/renewdesign/public_html/agriwash/uploads/");
+define("UPLOAD_DIR", "/Applications/XAMPP/xamppfiles/htdocs/agriwash/uploads/");
+//define("UPLOAD_DIR", "/home/renewdesign/public_html/agriwash/uploads/");
 if(isset($_POST['id']))
 {
 	include("config/db.php");
