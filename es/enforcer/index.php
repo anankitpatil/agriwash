@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Rhino Agriwash Enforcer - Automatic drive-through Vehicle disinfection and Wheel washing system</title>
-<meta name="description" content="The Rhino Agriwash Defender is an automatically activated drive-through vehicle disinfecting system. It has been specifically designed to reduce the spread of disease by vehicular movements in locations where biosecurity is a concern. The system comprises a robust wash platform with low profile ramps, spray bars, side screens, an entry sensor, a high performance chemical dosing unit with pump and a small control panel mounted on a 110 litre header tank. It is a surface mounted system, but can be inset for a more permanent installation. The Defender requires only a single phase, 240v power supply and a mains water connection.">
+<meta name="description" content="The Rhino Agriwash Enforcer is an automatically activated drive-through vehicle disinfecting system. It has been specifically designed to reduce the spread of disease by vehicular movements in locations where biosecurity is a concern. The system comprises a robust wash platform with low profile ramps, spray bars, side screens, an entry sensor, a high performance chemical dosing unit with pump and a small control panel mounted on a 110 litre header tank. It is a surface mounted system, but can be inset for a more permanent installation. The Enforcer requires only a single phase, 240v power supply and a mains water connection.">
 <meta name="keywords" content="wheel wash agriwash rhino defender disinfection biosecurity construction automatic ramps spray sensor automatic tank clean">
 <link rel="stylesheet" type="text/css" href="../../css/styles.css"/>
 <!--<link rel="stylesheet" type="text/css" href="../css/font-awesome.min.css"/>-->
@@ -132,9 +132,9 @@
             <td>3217mm x 2000mm x 415mm<br />
               1425kg</td>
           <tr>
-            <td>Pantallas laterales (PVC)</td>
+            <td>Pantallas laterales (x2) Steel</td>
             <td>2000mm x 2000mm<br />
-              70kg</td>
+              70kg each</td>
           </tr>
           <tr>
             <td>Rampas (x4)</td>
@@ -169,7 +169,7 @@
       <div class="down">
         <figure><img src="../../img/madeinbritain.png" alt="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system made in britain" /></figure>
         <figure><img src="../../img/iso.png" alt="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system iso certified" /></figure>
-        <a href="Agriwash%20Defender%20Spec%20Sheet.pdf" class="button smooth" target="_blank" title="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system download product specifications PDF">Descargar PDF</a>
+        <a href="Agriwash%20Enforcer%20Spec%20Sheet.pdf" class="button smooth" target="_blank" title="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system download product specifications PDF">Descargar PDF</a>
       </div>
     </div>
   </div>
@@ -213,7 +213,7 @@
       <div class="half">
         <p><a href="../"><figure style="width:150px"><img src="../../img/agriwash-logo.svg" alt="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system" /></figure></a></p>
         <p>&nbsp;</p>
-        <p>T: +44 (0)1270 214 886</p>
+        <p>T: +44 (0)1270 214886</p>
         <p>E: <a href="mailto:sales@agriwash.com" class="smooth" title="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system email contact">sales@agriwash.com</a></p>
       </div><div class="half">
         <p><b>Help & Support</b></p>

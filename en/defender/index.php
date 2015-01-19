@@ -134,7 +134,7 @@
           <tr>
             <td>Side Screens (PVC)</td>
             <td>900mm x 1200mm<br />
-              3kg</td>
+              3kg each</td>
           </tr>
           <tr>
             <td>Ramps (x4)</td>
@@ -212,7 +212,7 @@
       <div class="half">
         <p><a href="../"><figure style="width:150px"><img src="../../img/agriwash-logo.svg" alt="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system" /></figure></a></p>
         <p>&nbsp;</p>
-        <p>T: +44 (0)1270 214 886</p>
+        <p>T: +44 (0)1270 214886</p>
         <p>E: <a href="mailto:sales@agriwash.com" class="smooth" title="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system email contact">sales@agriwash.com</a></p>
       </div><div class="half">
         <p><b>Help & Support</b></p>

@@ -4,8 +4,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Rhino Agriwash Enforcer - Automatic drive-through Vehicle disinfection and Wheel washing system</title>
-<meta name="description" content="The Rhino Agriwash Defender is an automatically activated drive-through vehicle disinfecting system. It has been specifically designed to reduce the spread of disease by vehicular movements in locations where biosecurity is a concern. The system comprises a robust wash platform with low profile ramps, spray bars, side screens, an entry sensor, a high performance chemical dosing unit with pump and a small control panel mounted on a 110 litre header tank. It is a surface mounted system, but can be inset for a more permanent installation. The Defender requires only a single phase, 240v power supply and a mains water connection.">
-<meta name="keywords" content="wheel wash agriwash rhino defender disinfection biosecurity construction automatic ramps spray sensor automatic tank clean">
+<meta name="description" content="The Rhino Agriwash Enforcer is an automatically activated drive-through vehicle disinfecting system suitable for all road going vehicles. It has been specifically designed to reduce the spread of disease by vehicular movements in industrial and agricultural locations where biosecurity is a concern.The system comprises a robust wash platform with four sturdy ramps, spray bars, side screens, an entry sensor, a high performance chemical dosing unit with pump and a small control panel mounted on a 2000 litre header tank. It is a surface mounted system, but can be inset for a more permanent installation. The Enforcer only requires a single phase, 240v power supply and a mains water connection.">
+<meta name="keywords" content="wheel wash agriwash rhino enforcer disinfection biosecurity construction automatic ramps spray sensor automatic tank clean">
 <link rel="stylesheet" type="text/css" href="../../css/styles.css"/>
 <!--<link rel="stylesheet" type="text/css" href="../css/font-awesome.min.css"/>-->
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
@@ -34,24 +34,24 @@
 <body>
   <nav class="on">
     <div class="wrapper">
-      <figure class="smooth"><a href="../" title="Rhino Agriwash Enforcer - Automatic drive-through Vehicle disinfection and Wheel washing system"><img class="smooth" src="../../img/agriwash-logo.svg" alt="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system" /></a></figure>
-      <div class="regions-container smooth"> <a href="javascript:" class="regions smooth" title="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system English & Spanish">Language</a>
+      <figure class="smooth"><a href="../" title="Rhino Agriwash Enforcer - Automatic drive-through Vehicle disinfection and Wheel washing system"><img class="smooth" src="../../img/agriwash-logo.svg" alt="Rhino Agriwash Enforcer - Automatic drive-through Vehicle disinfection and Wheel washing system" /></a></figure>
+      <div class="regions-container smooth"> <a href="javascript:" class="regions smooth" title="Rhino Agriwash Enforcer - Automatic drive-through Vehicle disinfection and Wheel washing system English & Spanish">Language</a>
         <ul class="regions-dropdown smooth">
-          <li><a href="http://agriwash.com/en/" class="active smooth" title="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system English version">English</a></li>
-          <li><a href="http://agriwash.com/es/" class="smooth" title="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system Spanish version">Español</a></li>
+          <li><a href="http://agriwash.com/en/" class="active smooth" title="Rhino Agriwash Enforcer - Automatic drive-through Vehicle disinfection and Wheel washing system English version">English</a></li>
+          <li><a href="http://agriwash.com/es/" class="smooth" title="Rhino Agriwash Enforcer - Automatic drive-through Vehicle disinfection and Wheel washing system Spanish version">Español</a></li>
         </ul>
       </div>
       <ul class="smooth">
         <li class="smooth">
-          <a href="#product" class="smooth" title="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system product information">Products</a>
+          <a href="#product" class="smooth" title="Rhino Agriwash Enforcer - Automatic drive-through Vehicle disinfection and Wheel washing system product information">Products</a>
           <ul class="dropdown smooth">
             <li class="smooth"><a href="../defender/" class="smooth" title="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system product information">Defender</a></li>
             <li class="smooth"><a href="./" class="smooth" title="Rhino Agriwash Enforcer - Automatic drive-through Vehicle disinfection and Wheel washing system product information">Enforcer</a></li>
           </ul>
         </li>
-        <li class="smooth"><a href="#specification" class="smooth" title="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system technical specifications">Technical Specification</a></li>
-        <li class="anomaly smooth"><a href="#specification" class="smooth" title="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system technical specifications">Technical<br />Specification</a></li>
-        <li class="smooth"><a href="../#contact" class="smooth" title="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system contact email, address and phone number">Contact</a></li>
+        <li class="smooth"><a href="#specification" class="smooth" title="Rhino Agriwash Enforcer - Automatic drive-through Vehicle disinfection and Wheel washing system technical specifications">Technical Specification</a></li>
+        <li class="anomaly smooth"><a href="#specification" class="smooth" title="Rhino Agriwash Enforcer - Automatic drive-through Vehicle disinfection and Wheel washing system technical specifications">Technical<br />Specification</a></li>
+        <li class="smooth"><a href="../#contact" class="smooth" title="Rhino Agriwash Enforcer - Automatic drive-through Vehicle disinfection and Wheel washing system contact email, address and phone number">Contact</a></li>
         <!--<li><a href="#news" class="smooth">News</a></li>-->
       </ul>
     </div>
@@ -64,7 +64,7 @@
       </div>
     </div>
     <div class="left"></div>
-    <div class="image"><img src="../../img/slide-1.jpg" alt="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system" /><img src="../../img/slide-2.jpg" alt="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system" /><img src="../../img/slide-3.jpg" alt="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system" /><img src="../../img/slide-4.jpg" alt="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system" /><img src="../../img/slide-5.jpg" alt="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system" /></div>
+    <div class="image"><img src="../../img/slide-1.jpg" alt="Rhino Agriwash Enforcer - Automatic drive-through Vehicle disinfection and Wheel washing system" /><img src="../../img/slide-2.jpg" alt="Rhino Agriwash Enforcer - Automatic drive-through Vehicle disinfection and Wheel washing system" /><img src="../../img/slide-3.jpg" alt="Rhino Agriwash Enforcer - Automatic drive-through Vehicle disinfection and Wheel washing system" /><img src="../../img/slide-4.jpg" alt="Rhino Agriwash Enforcer - Automatic drive-through Vehicle disinfection and Wheel washing system" /><img src="../../img/slide-5.jpg" alt="Rhino Agriwash Enforcer - Automatic drive-through Vehicle disinfection and Wheel washing system" /></div>
     <div class="right"></div>
     <div class="lamma15">
       <img src="../../img/lamma15.png" />
@@ -72,7 +72,7 @@
  	</div>
   </div>
   <div class="mobile">
-    <figure><img src="../../img/slide-1.jpg" alt="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system" /></figure>
+    <figure><img src="../../img/slide-1.jpg" alt="Rhino Agriwash Enforcer - Automatic drive-through Vehicle disinfection and Wheel washing system" /></figure>
     <div class="lamma15">
       <img src="../../img/lamma15.png" />
       <p>See us on Stand 642 A, Hall 6!</p>
@@ -94,14 +94,14 @@
     <div class="wrap">
       <h3>Technical Benefits</h3>
       <div class="half">
-        <figure><img src="../../img/enforcer_mid_1.jpg" alt="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system targeted spray for maximum effectiveness" /></figure>
+        <figure><img src="../../img/enforcer_mid_1.jpg" alt="Rhino Agriwash Enforcer - Automatic drive-through Vehicle disinfection and Wheel washing system targeted spray for maximum effectiveness" /></figure>
         <h5>Targeted spray for maximum effectiveness</h5>
-        <figure><img src="../../img/enforcer_mid_3.jpg" alt="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system surface mounted" /></figure>
+        <figure><img src="../../img/enforcer_mid_3.jpg" alt="Rhino Agriwash Enforcer - Automatic drive-through Vehicle disinfection and Wheel washing system surface mounted" /></figure>
         <h5>Surface mounted</h5>
       </div><div class="half">
-        <figure><img src="../../img/enforcer_mid_2.jpg" alt="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system high quality pump for all round coverage" /></figure>
+        <figure><img src="../../img/enforcer_mid_2.jpg" alt="Rhino Agriwash Enforcer - Automatic drive-through Vehicle disinfection and Wheel washing system high quality pump for all round coverage" /></figure>
         <h5>High quality pump for all round coverage</h5>
-        <figure><img src="../../img/enforcer_mid_4.jpg" alt="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system with adjustable dosing" /></figure>
+        <figure><img src="../../img/enforcer_mid_4.jpg" alt="Rhino Agriwash Enforcer - Automatic drive-through Vehicle disinfection and Wheel washing system with adjustable dosing" /></figure>
         <h5>Adjustible dosing</h5>
       </div>
     </div>
@@ -115,9 +115,9 @@
             <source src="../../img/render.mp4" type="video/mp4">
           </video>
         </div>-->
-        <figure><img src="../../img/enforcer_render.jpg" alt="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system technical specification drawing" /></figure>
+        <figure><img src="../../img/enforcer_render.jpg" alt="Rhino Agriwash Enforcer - Automatic drive-through Vehicle disinfection and Wheel washing system technical specification drawing" /></figure>
       </div><div class="half">
-        <table title="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system technical specifications">
+        <table title="Rhino Agriwash Enforcer - Automatic drive-through Vehicle disinfection and Wheel washing system technical specifications">
           <tr>
             <td style="border-bottom:0px;padding-bottom:0px"><strong>Wash Platform</strong></td>
             <td style="border-bottom:0px"></td>
@@ -131,9 +131,9 @@
             <td>3217mm x 2000mm x 415mm<br />
               1425kg</td>
           <tr>
-            <td>Side Screens</td>
+            <td>Side Screens (x2) Steel</td>
             <td>2000mm x 2000mm<br />
-              70kg</td>
+              70kg each</td>
           </tr>
           <tr>
             <td>Ramps (x4)</td>
@@ -158,17 +158,17 @@
     </div>
     <div class="wrapper">
       <center>
-        <figure><img src="../../img/icon-1.jpg" alt="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system targeted spray" /><span>Targeted Spray</span></figure>
-        <figure><img src="../../img/icon-2.jpg" alt="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system 240 volts" /><span>240v<br />&nbsp;</span></figure>
-        <figure><img src="../../img/icon-3.jpg" alt="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system with disinfectant" /><span>Disinfectant<br />&nbsp;</span></figure>
-        <figure><img src="../../img/icon-4.jpg" alt="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system portable mobile movable" /><span>Mobile<br />&nbsp;</span></figure>
-        <figure><img src="../../img/icon-5.jpg" alt="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system automatic no civils required" /><span>No Civils<br />&nbsp;</span></figure>
-        <figure><img src="../../img/icon-6.jpg" alt="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system adjustible timer" /><span>Adjustable Timer</span></figure>
+        <figure><img src="../../img/icon-1.jpg" alt="Rhino Agriwash Enforcer - Automatic drive-through Vehicle disinfection and Wheel washing system targeted spray" /><span>Targeted Spray</span></figure>
+        <figure><img src="../../img/icon-2.jpg" alt="Rhino Agriwash Enforcer - Automatic drive-through Vehicle disinfection and Wheel washing system 240 volts" /><span>240v<br />&nbsp;</span></figure>
+        <figure><img src="../../img/icon-3.jpg" alt="Rhino Agriwash Enforcer - Automatic drive-through Vehicle disinfection and Wheel washing system with disinfectant" /><span>Disinfectant<br />&nbsp;</span></figure>
+        <figure><img src="../../img/icon-4.jpg" alt="Rhino Agriwash Enforcer - Automatic drive-through Vehicle disinfection and Wheel washing system portable mobile movable" /><span>Mobile<br />&nbsp;</span></figure>
+        <figure><img src="../../img/icon-5.jpg" alt="Rhino Agriwash Enforcer - Automatic drive-through Vehicle disinfection and Wheel washing system automatic no civils required" /><span>No Civils<br />&nbsp;</span></figure>
+        <figure><img src="../../img/icon-6.jpg" alt="Rhino Agriwash Enforcer - Automatic drive-through Vehicle disinfection and Wheel washing system adjustible timer" /><span>Adjustable Timer</span></figure>
       </center>
       <div class="down">
-        <figure><img src="../../img/madeinbritain.png" alt="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system made in britain" /></figure>
-        <figure><img src="../../img/iso.png" alt="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system iso certified" /></figure>
-        <a href="Agriwash%20Defender%20Spec%20Sheet.pdf" class="button smooth" target="_blank" title="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system download product specifications PDF">Download PDF</a>
+        <figure><img src="../../img/madeinbritain.png" alt="Rhino Agriwash Enforcer - Automatic drive-through Vehicle disinfection and Wheel washing system made in britain" /></figure>
+        <figure><img src="../../img/iso.png" alt="Rhino Agriwash Enforcer - Automatic drive-through Vehicle disinfection and Wheel washing system iso certified" /></figure>
+        <a href="Agriwash%20Enforcer%20Spec%20Sheet.pdf" class="button smooth" target="_blank" title="Rhino Agriwash Enforcer - Automatic drive-through Vehicle disinfection and Wheel washing system download product specifications PDF">Download PDF</a>
       </div>
     </div>
   </div>
@@ -186,8 +186,8 @@
   </div>
   <div class="container leader">
     <div class="wrap">
-      <a href="../#contact" class="button smooth" title="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system download product specifications PDF">Contact Information</a>
-      <a href="../#message" class="button smooth" title="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system download product specifications PDF">Leave us a message</a>
+      <a href="../#contact" class="button smooth" title="Rhino Agriwash Enforcer - Automatic drive-through Vehicle disinfection and Wheel washing system download product specifications PDF">Contact Information</a>
+      <a href="../#message" class="button smooth" title="Rhino Agriwash Enforcer - Automatic drive-through Vehicle disinfection and Wheel washing system download product specifications PDF">Leave us a message</a>
     </div>
   </div>
   <div class="container newsection" id="news">
@@ -209,14 +209,14 @@
   <footer>
     <div class="wrapper">
       <div class="half">
-        <p><a href="../"><figure style="width:150px"><img src="../../img/agriwash-logo.svg" alt="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system" /></figure></a></p>
+        <p><a href="../"><figure style="width:150px"><img src="../../img/agriwash-logo.svg" alt="Rhino Agriwash Enforcer - Automatic drive-through Vehicle disinfection and Wheel washing system" /></figure></a></p>
         <p>&nbsp;</p>
-        <p>T: +44 (0)1270 214 886</p>
-        <p>E: <a href="mailto:sales@agriwash.com" class="smooth" title="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system email contact">sales@agriwash.com</a></p>
+        <p>T: +44 (0)1270 214886</p>
+        <p>E: <a href="mailto:sales@agriwash.com" class="smooth" title="Rhino Agriwash Enforcer - Automatic drive-through Vehicle disinfection and Wheel washing system email contact">sales@agriwash.com</a></p>
       </div><div class="half">
         <p><b>Help & Support</b></p>
         <p><a href="../defender/" class="smooth" title="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system product information">Defender</a></p>
-        <p><a href="./" class="smooth" title="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system product information">Enforcer</a></p>
+        <p><a href="./" class="smooth" title="Rhino Agriwash Enforcer - Automatic drive-through Vehicle disinfection and Wheel washing system product information">Enforcer</a></p>
         <p><a href="../#contact" class="smooth" title="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system contact emil, address and phone number">Contact Information</a></p>
         <p><a href="../#message" class="smooth" title="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system contact emil, address and phone number">Leave us a message</a></p>
         <p><a href="../news/" class="smooth" title="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system contact emil, address and phone number">News</a></p>

@@ -134,7 +134,7 @@
       <div class="half">
         <p class="cname">Alison Galley, UK Sales Manager</p>
         <p></p>
-        <p class="cnumber">Telephone: +(44) 333 321 1481</p>
+        <p class="cnumber">Telephone: +(44) 1270 214886</p>
         <p>Fax: +(44) 01270 214583</p>
         <p>Email: <a href="mailto:sales@agriwash.com" class="smooth" title="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system email contact">sales@agriwash.com</a></p>
         <p class="caddr">Address:<br />Agriwash<br />c/o Wheelwash Limited<br />Pyms Lane<br />Crewe, Cheshire<br />CW1 3PJ</p>
@@ -179,7 +179,7 @@
       <div class="half">
         <p><a href="./"><figure style="width:150px"><img src="../img/agriwash-logo.svg" alt="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system" /></figure></a></p>
         <p>&nbsp;</p>
-        <p>T: +44 (0)1270 214 886</p>
+        <p>T: +44 (0)1270 214886</p>
         <p>E: <a href="mailto:sales@agriwash.com" class="smooth" title="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system email contact">sales@agriwash.com</a></p>
       </div><div class="half">
         <p><b>Ayuda y soporte</b></p>

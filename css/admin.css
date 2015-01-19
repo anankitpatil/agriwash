@@ -1,46 +1,46 @@
 html, body{margin:0px;padding:0px;font:14px/26px Verdana, Geneva, sans-serif}
-input, textarea{border:1px solid #2EA664;font-size:14px;padding:6px;border-radius:3px;width:100%;font-size:16px;color:#5F5F5F;width:600px;margin-left:auto;margin-right:auto}
+input, textarea{border:1px solid #564f22;font-size:14px;padding:6px;border-radius:3px;width:100%;font-size:16px;color:#5F5F5F;width:600px;margin-left:auto;margin-right:auto}
 .smooth{-webkit-transition: all 250ms ease-in-out;-moz-transition: all 250ms ease-in-out;-o-transition: all 250ms ease-in-out;transition: all 250ms ease-in-out}
 .hidden,.hiddenitem{display:none}
 .container{width:100%}
 .container .wrapper{width:1026px;margin:0 auto 96px;text-align:center}
 .logo{width:150px;padding:24px 48px 24px 0;display:inline-block}
-.nav,.logout,.home{display:inline-block;vertical-align:top;font-size:16px;padding:6px 12px;border:1px solid #2EA664;color:#2EA664;border-radius:3px;margin-top:30px}
-.home:hover{background:#2EA664;color:#FFFFFF}
+.nav,.logout,.home{display:inline-block;vertical-align:top;font-size:16px;padding:6px 12px;border:1px solid #564f22;color:#564f22;border-radius:3px;margin-top:30px}
+.home:hover{background:#564f22;color:#FFFFFF}
 .logout{text-decoration:none;float:right}
-.logout:hover{background:#2EA664;color:#FFFFFF}
+.logout:hover{background:#564f22;color:#FFFFFF}
 .logo img{width:100%;height:auto}
-.button{background:#2EA664;color:#FFFFFF}
+.button{background:#564f22;color:#FFFFFF}
 .login,.registerform{width:360px;margin:0 auto;text-align:left}
 .login input,.registerform input{width:100%;box-sizing:border-box}
 .login .button,.registerform .button{width:96px;display:inline-block;margin-top:24px;cursor:pointer}
-.login .button:hover,.registerform .button:hover{background:none;color:#2EA664}
-.login .register,.registerform .back{display:inline-block;text-decoration:none;margin:24px 0 0 24px;color:#2EA664}
+.login .button:hover,.registerform .button:hover{background:none;color:#564f22}
+.login .register,.registerform .back{display:inline-block;text-decoration:none;margin:24px 0 0 24px;color:#564f22}
 .login .register:hover,.registerform .back:hover{color:#0D4B98}
 .add{border-bottom:1px solid #EEEEEE;padding:12px 0;text-align:center}
 .add form{z-index:1}
-.add .subtract{background:rgba(255,255,255,0.9);z-index:2;position:relative;display:block;height:309px;margin-top:-309px;opacity:0;display:none}
+.add .subtract{background:rgba(255,255,255,0.9);z-index:2;position:relative;display:block;opacity:0;display:none}
 .add .subtract img{position:absolute;left:50%;top:50%;margin:-16px 0 0 -16px}
-.add form h3{color:#2EA664;font-weight:300;width:612px;margin:0px auto;text-align:left}
+.add form h3{color:#564f22;font-weight:300;width:612px;margin:0px auto;text-align:left}
 .add form input[type="text"]{margin-bottom:24px}
 .add form textarea{margin-bottom:18px}
-.add form .cancel{width:96px;background:#545454;color:#FFFFFF;border:1px solid #545454;cursor:pointer;margin-left:327px;margin-top:24px;display:inline-block;vertical-align:central}
+.add form .cancel{width:96px;background:#979797;color:#FFFFFF;border:1px solid #545454;cursor:pointer;margin-left:327px;margin-top:24px;display:inline-block;vertical-align:central}
 .add form .cancel:hover{background:#FFFFFF;color:#545454}
-.add form .save{width:96px;background:#2EA664;color:#FFFFFF;border:1px solid #2EA664;cursor:pointer;margin-left:12px;margin-top:24px;display:inline-block;vertical-align:central}
-.add form .save:hover{background:#FFFFFF;color:#2EA664}
+.add form .save{width:96px;background:#564f22;color:#FFFFFF;border:1px solid #564f22;cursor:pointer;margin-left:12px;margin-top:24px;display:inline-block;vertical-align:central}
+.add form .save:hover{background:#FFFFFF;color:#564f22}
 .add form .imagery{display:block;width:72px;height:72px;overflow:hidden;display:inline-block;margin:12px 0 0 0}
 .add form .imagery img{height:100%;width:auto}
 .item{border-bottom:1px solid #EEEEEE;cursor:pointer}
-.item:hover{border-left-color:#2EA664;background:#EFEFEF;}
+.item:hover{border-left-color:#564f22;background:#EFEFEF;}
 .item figure{height:42px;width:42px;margin:3px;display:inline-block;vertical-align:top;overflow:hidden}
 .item figure img{height:100%;width:auto}
 .item .alltext{display:inline-block;width:240px;text-align:left}
-.item .alltext h2{font-size:14px;display:inline-block;margin:0px;color:#2EA664;cursor:pointer}
-.item .alltext h4{font-size:12px;line-height:16px;font-weight:300;margin:0px;color:#C6C6C6}
+.item .alltext h2{font-size:14px;display:inline-block;margin:0px;color:#564f22;cursor:pointer}
+.item .alltext h4{font-size:12px;line-height:16px;font-weight:300;margin:0px;color:#494949}
 .item .content{width:648px;display:inline-block;vertical-align:top}
-.item .content p{margin:0px;color:#C6C6C6;line-height:24px}
-.item a{display:block;width:16px;display:inline-block;vertical-align:top;border:1px solid #2EA664;padding: 0 3px 0 7px;border-radius:3px;margin-top:10px;margin-right:6px}
-.item a:hover{background:#2EA664}
+.item .content p{margin:0px;color:#494949;line-height:24px}
+.item a{display:block;width:16px;display:inline-block;vertical-align:top;border:1px solid #564f22;padding: 0 3px 0 7px;border-radius:3px;margin-top:10px;margin-right:6px}
+.item a:hover{background:#564f22}
 .item a:hover i{color:#FFFFFF}
 .item a:last-of-type{margin-right:0px}
-.item a i{color:#2EA664}
+.item a i{color:#564f22}
