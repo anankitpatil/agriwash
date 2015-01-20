@@ -159,6 +159,7 @@ footer .third:nth-of-type(3) p{margin-left:50%}
 .wrapper{width:100%}
 .wrap{width:calc(100% - 48px);margin-left:24px;margin-right:24px}
 nav figure,nav.on figure{margin-left:24px}
+#product .half{padding:0 12px}
 .contact .half p{margin-left:24px}
 .contact .half .map{width:calc(100% - 24px);margin-right:24px}
 .newsection .over{width:calc(100% - 48px);margin-left:24px;margin-right:24px}
@@ -173,6 +174,7 @@ nav ul li{margin:0 18px}
 .slide{margin-top:0px}
 .slide .image{top:0px}
 #product h2{text-align:left}
+#product .half{width:calc(100% - 24px)}
 .gradiator .half figure{width:180px;height:180px}
 .gradiator .half h5{font-size:15px}
 .spec .half,.contact .half{width:100%}

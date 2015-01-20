@@ -61,7 +61,7 @@
     <div class="wrapper"> <i class="fa fa-angle-left smooth"></i> <i class="fa fa-angle-right smooth"></i> </div>
   </div>
   <div class="left"></div>
-  <div class="image"><img src="../../img/slide-1.jpg" alt="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system" /><img src="../../img/slide-2.jpg" alt="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system" /><img src="../../img/slide-3.jpg" alt="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system" /><img src="../../img/slide-4.jpg" alt="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system" /><img src="../../img/slide-5.jpg" alt="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system" /></div>
+  <div class="image"><img src="../../img/defender-slide-1.jpg" alt="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system" /><img src="../../img/defender-slide-2.jpg" alt="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system" /><img src="../../img/defender-slide-3.jpg" alt="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system" /><img src="../../img/defender-slide-4.jpg" alt="Rhino Agriwash Defender - Automatic drive-through Vehicle disinfection and Wheel washing system" /></div>
   <div class="right"></div>
   <div class="lamma15"> <img src="../../img/lamma15.png" />
     <p>See us on Stand 642 A, Hall 6!</p>
