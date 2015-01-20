@@ -1,6 +1,6 @@
 <div class="logo"><img src="../../img/logo_.png" /></div>
 <div class="nav">Username: <b><?php echo $_SESSION['user_name']; ?></b></div>
-<a class="home" href="http://agriwash.com/en/"><i class="fa fa-home"></i></a> <a class="logout" href="http://agriwash.com/en/admin/index.php?logout=true">Logout</a>
+<a class="home" href="../"><i class="fa fa-home"></i></a> <a class="logout" href="./index.php?logout=true">Logout</a>
 <div class="add">
   <form class="add-form" enctype="multipart/form-data">
     <h3>Title</h3>
