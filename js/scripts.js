@@ -73,7 +73,9 @@ $(document).ready(function() {
 	    });
 	});
 	//Scroll news
-	if($('.newsection').length) var newsInterval = setInterval(function(){ thisNews(); }, 3000);
+	if($('.newsection').length){
+		if($('.newsection .item').length > 1) var newsInterval = setInterval(function(){ thisNews(); }, 3000);
+	}
 });
 function slide(){
 	var x = y - 1; if(x == -1) x = len-1;

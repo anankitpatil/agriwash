@@ -7,6 +7,7 @@
 <link rel="stylesheet" type="text/css" href="../../css/admin.css"/>
 <link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css"/>
 <script src="../../js/jquery-2.1.1.min.js"></script>
+<script src="../../js/jquery.form.min.js"></script>
 <script src="../../js/admin.js"></script>
 </head>
 <body>

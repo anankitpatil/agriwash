@@ -65,7 +65,7 @@ while($news = mysql_fetch_array($data)) { ?>
     <h2><?php echo $news['title']; ?></h2>
     <h4><?php echo str_replace('-', '/', substr($news['modified'], 0, 10)); ?></h4>
     <figure><img src="../../../uploads/<?php echo $news['image']; ?>" /></figure>
-    <div class="content"><p><?php echo $news['content']; ?></p></div>
+    <div class="content"><p><?php echo nl2br($news['content']); ?></p></div>
   </div>
 <?php } ?>
     </div>
